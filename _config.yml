@@ -23,11 +23,11 @@ nav:
     icon: icon-reorder
     class: none
   - text: 关于我
-    url: /contact.html
+    url: /about.html
     icon: icon-envelope-alt
     class: none
   - text: 联系我
-    url: http://zsky.org/contact.html
+    url: /contact.html
     icon: icon-heart
     class: none
   - text: 主题源代码
@@ -43,7 +43,7 @@ page:
     url: /links.html
     last: true
   - text: 关于我
-    url: /contact.html
+    url: /about.html
     last: false
 
 author:
