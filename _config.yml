@@ -27,10 +27,10 @@ nav:
     icon: icon-envelope-alt
     class: none
   - text: 联系我
-    url: http://www.zhanxin.info/contact.html
+    url: http://zsky.org/contact.html
     icon: icon-heart
     class: none
-  - text: 博客源代码
+  - text: 主题源代码
     url: https://github.com/pizn/iLotus
     icon: icon-github
     class: none
